@@ -6,7 +6,8 @@ import smtplib
 def mail(Subject,body):
     sender_id='strava.gaming@gmail.com'
     receiver_id='bethiprashanth87@gmail.com'
-    password='onlyynkwwtuvemtn'
+   password='onlyynkwwtuvemtn'
+password='Rocky@1999$'
     em=EmailMessage()
     em['from']=sender_id
     em['to']=receiver_id
